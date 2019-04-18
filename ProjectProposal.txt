@@ -1,0 +1,8 @@
+Project Proposal 
+
+1) Team Members: Cheng-No Chang, Hounghuy Hourt, and Angel Quiroga 
+2) Project Overview: We are going to create/modify clinic website development. 
+3) Goals: To create an official clinic website development 
+4) Resources: https://github.com/omolazabal/read-only
+5) Resource Use: We would use the resource as a format and convert the website content into a different one with new features. 
+6) Existing Project: We will add a map to help users figure out where the clinic is an in-depth tab about what the clinic offers. 
