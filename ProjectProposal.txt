@@ -6,3 +6,11 @@ Project Proposal
 4) Resources: https://github.com/omolazabal/read-only
 5) Resource Use: We would use the resource as a format and convert the website content into a different one with new features. 
 6) Existing Project: We will add a map to help users figure out where the clinic is an in-depth tab about what the clinic offers. 
+
+Final Proposal(May 9th)
+1) Team Members: Cheng-No Chang, Hounghuy Hourt, and Angel Quiroga 
+2) Project Overview: We are going to create/modify hotel website. 
+3) Goals: To create an official hotel website. 
+4) Resources: https://github.com/omolazabal/read-only
+5) Resource Use: We would use the resource as a format and convert the website content into a different one with new features. 
+6) Existing Project: We will change the look and feel of the website to our liking.
