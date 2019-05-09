@@ -32,6 +32,37 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+	h1 {
+		font: Helvetica;
+		font-weight: bold;
+		color: #8B0000;
+	
+	}
+		.topnav {
+			overflow: hidden;
+			background-color: #00FFFF;
+		  }
+		  
+		  .topnav a {
+			float: left;
+			color:  #8B0000;
+			text-align: center;
+			padding: 14px 16px;
+			text-decoration: hidden;
+			font-size: 20px;
+			font-family: Helvetica;
+		  }
+		
+		  .topnav a:hover {
+			background-color:#C0C0C0;
+			color: black;
+		  }
+		  
+		  .topnav a.active {
+			
+			color: #8B0000;
+		  }
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -2677,7 +2708,7 @@ input, select, textarea {
 		-moz-flex-direction: column;
 		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
-		flex-direction: column;
+		flex-direction: row;
 		-moz-justify-content: space-between;
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
